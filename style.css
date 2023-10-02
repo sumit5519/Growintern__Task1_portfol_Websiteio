@@ -1,0 +1,81 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar {
+    background-color: black;
+}
+
+.hlw {
+    height: 100px;
+    width: 100px;
+}
+
+.fbicon {
+    font-size: 30px;
+    margin-left: 30px;
+    color: white;
+}
+
+.inicon {
+    font-size: 30px;
+    margin-left: 30px;
+    color: violet;
+}
+
+.twicon {
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.yoicon {
+    font-size: 30px;
+    margin-left: 30px;
+    color: red;
+
+}
+
+.gicon {
+    font-size: 30px;
+    margin-left: 30px;
+    color: black;
+
+}
+
+.img_box {
+    height: 500px;
+
+
+}
+
+#img2 {
+    height: 400px;
+}
+
+.bulb {
+    height: 100px;
+    width: 100px;
+}
+
+.circle_icon {
+    color: yellow;
+}
+
+.trophy_icon {
+    color: orange;
+
+}
+
+.card1 {
+    box-shadow: 0px 0px 10px 2px black;
+
+}
+
+#sumit1 {
+    box-shadow: 0px 0px 10px 2px white;
+}
+
+#sumit2 {
+    box-shadow: 0px 0px 10px 2px white;
+}
